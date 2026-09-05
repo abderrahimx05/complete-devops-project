@@ -1,0 +1,7 @@
+# Terraform provider plugin cache (hundreds of MB of binaries)
+.terraform/
+
+# State files - may contain secrets
+*.tfstate
+*.tfstate.*
+crash.log
