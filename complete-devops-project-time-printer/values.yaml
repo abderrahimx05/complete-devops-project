@@ -1,5 +1,5 @@
 image:
-  repository: abderrahim98/complete-devops-project/actions
+  repository: abderrahim98/complete-devops-project
   tag: 8d7a205
   pullPolicy: IfNotPresent
 service:
